@@ -1,7 +1,7 @@
 <div class="container__small-card">
     <div class="container__small-card-content">
         <div class="small-card__photo">
-            <img src="https://cdn.pixabay.com/photo/2019/09/22/04/18/path-4495045_1280.jpg"
+            <img [src]="photoCover"
                 alt=""
                 height="200px" />
         </div>
@@ -9,7 +9,7 @@
         <div class="small-card__title">
             <h1>
                 <a href="">
-                    Let's start the journey
+                    {{ cardTitle }}
                 </a>
             </h1>
         </div>
