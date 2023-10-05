@@ -12,9 +12,9 @@
 
 <br>
 
-![Alt text](./assets/imageHome.png)
+![Alt text](./src/assets/imageHome.png)
 
-![Alt text](./assets/imageContent.png)
+![Alt text](./src/assets/imageContent.png)
 
 ##
 ### Tecnologias utilizadas:
