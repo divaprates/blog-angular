@@ -5,7 +5,7 @@ import { dataFake } from 'src/app/data/dataFake';
 @Component({
   selector: 'app-content',
   templateUrl: './content.component.html',
-  styleUrls: ['./content.component.scss']
+  styleUrls: ['./content.component.scss', './content.responsive.component.scss']
 })
 export class ContentComponent implements OnInit {
 

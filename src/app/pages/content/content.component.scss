@@ -20,10 +20,12 @@
 .content_description {
     margin-top: 15px;
     padding: 10px;
+
+    width: 70%;
 }
 
 .content_description > p {
     color: rgb(189, 186, 186);
     margin-top: 20px;
-    // text-align: justify;
+    text-align: justify;
 }

@@ -12,6 +12,10 @@
 
 <br>
 
+![Alt text](./assets/imageHome.png)
+
+![Alt text](./assets/imageContent.png)
+
 ##
 ### Tecnologias utilizadas:
 
